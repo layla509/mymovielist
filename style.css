@@ -1,0 +1,28 @@
+h1 {
+   color: black;
+}
+     
+img{
+ width: 100px;
+ height: 140px;
+}
+
+body {
+    background-color: pink;
+}
+h1 {
+ color:white;
+ text-align:center;
+}
+p {
+font-family: Verdana;
+font-size: 20px;
+}
+body {
+    background-image:url(https://i.pinimg.com/originals/76/16/e2/7616e26321dfac0b32933b378eca98e8.gif);
+);
+background-size: cover;
+ heigh:100vh;
+}
+
+
